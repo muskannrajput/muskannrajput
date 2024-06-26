@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muskannrajput
 - 👀 I’m interested in making user friendly application/websit
 - 🌱 I’m currently learning node.js
-- 📫 How to reach me rajputmuskan2107@gmial.com
+- 📫 How to reach me rajputmuskan2107@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: suck at sitcoms
 
